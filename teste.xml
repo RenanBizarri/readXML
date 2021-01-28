@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?> 
+<rotas>
+  <rota>
+    <nome>Rota 01</nome> 
+    <motorista>Pedro</motorista> 
+    <placa>AAA9999</placa>
+  </rota>
+  <rota>
+    <nome>Rota 26</nome> 
+    <motorista>Luis</motorista> 
+    <placa>LIG1274</placa>
+  </rota>
+  <rota>
+    <nome>Rota 76</nome> 
+    <motorista>Mario</motorista> 
+    <placa>MWE9625</placa>
+  </rota>
+</rotas>
